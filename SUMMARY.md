@@ -16,12 +16,13 @@
 
 ## RxJs Operators
 
-* [Creation operators](rxjs-operators/untitled/README.md)
-  * [of](rxjs-operators/untitled/of.md)
-  * [from](rxjs-operators/untitled/from.md)
-  * [fromEvent](rxjs-operators/untitled/fromevent.md)
-  * [range](rxjs-operators/untitled/range.md)
-  * [interval](rxjs-operators/untitled/interval.md)
-  * [timer](rxjs-operators/untitled/timer.md)
-  * [generate](rxjs-operators/untitled/generate.md)
+* [Creation operators](rxjs-operators/creational-operators/README.md)
+  * [of](rxjs-operators/creational-operators/of.md)
+  * [from](rxjs-operators/creational-operators/from.md)
+  * [fromEvent](rxjs-operators/creational-operators/fromevent.md)
+  * [range](rxjs-operators/creational-operators/range.md)
+  * [interval](rxjs-operators/creational-operators/interval.md)
+  * [timer](rxjs-operators/creational-operators/timer.md)
+  * [generate](rxjs-operators/creational-operators/generate.md)
+* [Filtering operators](filtering-operators.md)
 
